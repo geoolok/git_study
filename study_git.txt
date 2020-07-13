@@ -1,3 +1,4 @@
 我是第一次写git
 我是第二次添加的信息 git status 命令
 我是第三次  试一下git diff命令
+编码是utf-8
